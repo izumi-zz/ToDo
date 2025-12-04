@@ -3,4 +3,4 @@ contact_links:
   - name: Add new ToDo
     about: made by config.yml
     # edit izumi-zz and MyToDo for your environment
-    url: https://github.com/kaitas/ToDo/issues/new?template=custom.md&projects=kaitas%2FToDo%2F1&labels=ToDo
+    url: https://github.com/izumi-zz/MyToDo/issues/new?template=custom.md&projects=izumi-zz%2FToDo%2F1&labels=ToDo
